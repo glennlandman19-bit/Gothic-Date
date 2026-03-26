@@ -1,0 +1,1 @@
+{\n  "name": "backend",\n  "version": "1.0.0",\n  "description": "Backend for Node.js Express server",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "jsonwebtoken": "^8.5.1",\n    "bcryptjs": "^2.4.3",\n    "mongoose": "^6.0.12",\n    "stripe": "^8.0.0",\n    "socket.io": "^4.0.0"\n  }\n}
